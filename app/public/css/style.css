@@ -2,3 +2,8 @@ img {
   vertical-align: middle;
   width: 50%;
 }
+
+div#modal-img {
+  width: 50%;
+  vertical-align: middle;
+}
