@@ -1,9 +1,5 @@
-img {
-  vertical-align: middle;
-  width: 50%;
-}
 
-div#match-img {
+div.modal-body#match-img {
   width: 50%;
   vertical-align: middle;
 }
