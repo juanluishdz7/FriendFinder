@@ -1,3 +1,4 @@
-#match-img {
-  size: 50%;
+img {
+  vertical-align: middle;
+  width: 50%;
 }
